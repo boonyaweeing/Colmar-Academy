@@ -1,0 +1,238 @@
+* {
+    margin: 0px;
+  }
+  
+  body {
+    font-family: 'Avenir Next LT Pro', sans-serif;
+    max-width: 1280px;
+    margin: auto;
+  }
+
+  h1 {
+    color:#4a4a4a
+  }
+  
+    a {
+    color: rgb(88, 134, 233)
+  }
+  
+  #banner-container {
+  
+    display: flex;
+    align-items: center;
+    padding: 32px 24px;
+    background-color: #d7d7d7;
+  }
+  
+  #banner-container img {
+    width: 60%;
+  }
+  
+  #banner-container #banner-text {
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+  }
+  
+  #banner-container #banner-text h1 {
+    margin-top: 24px;
+    color: #4a4a4a;
+  }
+  
+  #banner-container #banner-text p {
+    color: #4a4a4a;
+    margin-top: 24px;
+  }
+  
+  #banner-container #banner-text button {
+    color: white;
+    background-color: #4a4a4a;
+    border: unset;
+    padding: 8px 0px;
+    margin-top: 24px;
+  }
+
+    .main {
+    display: flex;
+    padding: 32px 24px;
+    background-color: white;
+    color: #4a4a4a
+  }
+
+    #left-container {
+    width: 60%;
+    
+  }
+
+    #left-image {
+    width: 100%;
+  }
+
+    #left-container-text {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    margin-top: 32px;
+    width: 100%;
+  }
+
+    #left-container-text h1 {
+    padding: 32px 0px;
+  }
+  
+    #emma {
+    margin: 32px 0px; 
+    }
+
+  
+    #right-container {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    margin-top: 0;
+    height: auto;
+    margin-bottom: 0;
+  }
+
+    #right-container img {
+    width: 35%;
+    height: auto;
+  }
+
+    #orientationdate {
+    display: flex;
+    align-items: center;
+    border: 1px solid lightgrey;
+    padding: 0px 16px 16px 16px;
+
+  }
+
+    #orientationdate-text {
+    align-items: center;
+    padding: 24px;
+    }
+
+
+    #ourcampus {
+    display: flex;
+    align-items: center;
+    border: 1px solid lightgrey;
+    padding: 16px;
+  }
+
+    #ourcampus-text {
+    align-items: center;
+    padding: 24px; 
+    }
+
+    #ourguestlecture {
+    display: flex;
+    align-items: center;
+    border: 1px solid lightgrey;
+    padding: 16px;
+    }
+
+    #ourguest-text {
+    align-items: center;
+    padding: 24px;
+    }
+
+    .righttext {
+    padding: 8px 0px;
+    }
+    
+
+    .startlearning {
+    background-color:rgb(239, 237, 237) ;
+    }
+
+    .startlearning2 {
+    background-color:rgb(239, 237, 237) ;
+    }
+
+    .startlearning h1 {
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+    }
+
+    .scontainer {
+    background-color:rgb(239, 237, 237) ;
+    display: flex;
+    padding: 32px 72px;
+    padding-top: 0px;
+    }
+
+    .smallbox {
+    margin: 16px;
+    justify-content: center;
+    width: 100%;
+    }
+
+    .smallbox img {
+        width: 100%;
+    }
+
+    .stext {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    }
+
+    .stext h3 {
+    color:darkgray;
+    }
+
+    .stext p {
+    color: darkgray;
+    }
+
+    .thesisx h1 {
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+    }
+
+    .thesis {
+    display: flex;
+    align-items: center;
+    padding: 32px 24px;
+    background-color: white;
+    }
+    .tleft {
+    width: 60%;
+    }
+
+    .right {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    margin-top: 0;
+    height: auto;
+    margin-bottom: 0;
+    }
+
+    .right img {
+    width: 35%;
+    height: auto;
+    }
+
+    .rightnaja {
+    display: flex;
+    margin: 16px;
+    }
+
+    .rtext {
+    padding: 16px;
+    }
+
+    header {
+        height: 64px;
+    }
+
+    header img {
+        width: 20%;
+    }
